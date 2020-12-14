@@ -1,4 +1,3 @@
-# ikinci deneme kodu
 # =============================================================================
 import cv2  # open cv kutuphanesi
 import dlib
